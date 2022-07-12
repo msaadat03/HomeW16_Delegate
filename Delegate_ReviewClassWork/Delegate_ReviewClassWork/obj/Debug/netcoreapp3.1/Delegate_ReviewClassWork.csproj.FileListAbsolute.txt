@@ -1,0 +1,14 @@
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\bin\Debug\netcoreapp3.1\Delegate_ReviewClassWork.exe
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\bin\Debug\netcoreapp3.1\Delegate_ReviewClassWork.deps.json
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\bin\Debug\netcoreapp3.1\Delegate_ReviewClassWork.runtimeconfig.json
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\bin\Debug\netcoreapp3.1\Delegate_ReviewClassWork.runtimeconfig.dev.json
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\bin\Debug\netcoreapp3.1\Delegate_ReviewClassWork.dll
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\bin\Debug\netcoreapp3.1\Delegate_ReviewClassWork.pdb
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\obj\Debug\netcoreapp3.1\Delegate_ReviewClassWork.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\obj\Debug\netcoreapp3.1\Delegate_ReviewClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\obj\Debug\netcoreapp3.1\Delegate_ReviewClassWork.AssemblyInfoInputs.cache
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\obj\Debug\netcoreapp3.1\Delegate_ReviewClassWork.AssemblyInfo.cs
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\obj\Debug\netcoreapp3.1\Delegate_ReviewClassWork.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\obj\Debug\netcoreapp3.1\Delegate_ReviewClassWork.dll
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\obj\Debug\netcoreapp3.1\Delegate_ReviewClassWork.pdb
+C:\Users\OMEN\source\repos\HomeW16_Delegate\Delegate_ReviewClassWork\Delegate_ReviewClassWork\obj\Debug\netcoreapp3.1\Delegate_ReviewClassWork.genruntimeconfig.cache
